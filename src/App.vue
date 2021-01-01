@@ -1,7 +1,7 @@
 <template>
   <h1>Sorting Algorithms Visualizer</h1>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Varun's Vue.js App"/>
+  <HelloWorld msg="Welcome to Shreya's Vue.js App"/>
 </template>
 
 <script>
